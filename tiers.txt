@@ -1,0 +1,25 @@
+Tier 1:     J. Taylor, C. McCaffrey, A. Ekeler, N. Harris, D. Cook, C. Kupp, D. Henry
+Tier 2:     J. Jefferson, J. Mixon, J. Chase, T. Kelce, D. Swift, S. Diggs, D. Adams
+Tier 3:     A. Jones, C. Lamb, L. Fournette, M. Andrews
+Tier 4:     S. Barkley, M. Evans, A. Kamara, T. Hill, K. Allen, Javo. Williams, N. Chubb, D. Samuel, A. Brown
+Tier 5:     T. Higgins, M. Pittman Jr., D. Johnson, J. Conner, K. Pitts, D. Montgomery, J. Allen, J. Waddle, E. Elliott, D. Moore, C. Akers
+Tier 6:     B. Cooks, T. Etienne Jr., A. Gibson, T. McLaurin, J. Herbert, D. Metcalf, B. Hall, G. Kittle, J. Jacobs, P. Mahomes
+Tier 7:     J. Dobbins, D. Waller, A. Cooper, C. Sutton, M. Williams, M. Brown, L. Jackson
+Tier 8:     E. Mitchell, J. Jeudy, D. Mooney, A. Robinson II, A. Dillon
+Tier 9:     R. Bateman, K. Murray, M. Sanders, M. Thomas, D. Schultz, A. St. Brown, J. Hurts, C. Edwards-Helaire, C. Godwin, J. Smith-Schuster
+Tier 10:     K. Hunt, E. Moore, D. Harris, T. Hockenson, J. Burrow, C. Edmonds, T. Pollard
+Tier 11:     A. Thielen, G. Davis, D. Singletary, H. Renfrow, D. Smith, T. Brady, D. Prescott, T. Lockett, M. Gordon III, D. Goedert, R. Wilson, R. Penny, C. Patterson
+Tier 12:     K. Walker III, D. Hopkins, Z. Ertz, M. Stafford, D. London
+Tier 13:     C. Kirk, B. Aiyuk, A. Rodgers, R. Stevenson, R. Gage, T. Burks, P. Freiermuth, M. Carter, R. Woods, J. Cook
+Tier 14:     C. Claypool, K. Toney, T. Lance, C. Kmet, A. Lazard, A. Mattison, R. Jones II, N. Hines, M. Gesicki, D. Carr, G. Wilson, K. Cousins, J. McKissic, J. Meyers
+Tier 15:     D. Knox, T. Boyd, D. Henderson Jr., M. Gallup, C. Olave
+Tier 16:     J. Landry, K. Golladay, J. Robinson, R. Moore, D. Parker, N. Fant, T. Tagovailoa, S. Moore, D. Pierce
+Tier 17:     M. Valdes-Scantling, H. Henry, J. Fields, R. Mostert, K. Gainwell, Jame. Williams, I. Spiller, A. Okwuegbunam
+Tier 18:     D.J. Chark Jr., R. Tonyan, I. Smith Jr., C. Watson, Bills DST
+Tier 19:     C. Davis, T. Patrick, T. Lawrence, T. Higbee, G. Everett, S. Michel, T. Allgeier, R. White, Buccaneers DST
+Tier 20:     L. Thomas, Jama. Williams, G. Edwards, K. Herbert, V. Jefferson, D. Williams, D. Njoku, J. Dotson, 49ers DST
+Tier 21:     E. Engram, M. Hardman, J. Winston, M. Ryan, M. Mack, S. Shepard, J. White, J. Tucker, Colts DST, Broncos DST
+Tier 22:     R. Tannehill, J. Crowder, A. Hooper, R. Anderson, D. Foreman, Saints DST, Patriots DST
+Tier 23:     M. Jones Jr., Z. Wilson, M. Jones, M. Ingram II, T. Bass, M. Gay, Rams DST, G. Pickens
+Tier 24:     N. Collins, D. Jones, J. Palmer, C. Samuel, L. Shenault Jr., D. Carlson, W. Fuller V, Cowboys DST, Chargers DST
+Tier 25:     K. Bourne, H. Hurst
