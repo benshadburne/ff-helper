@@ -1555,3 +1555,187 @@ JavaScript error: https://watsonfantasyfootball.espn.com/static/js/main.4ca240e3
 JavaScript error: , line 0: uncaught exception: Not Found
 1657835793687	Marionette	INFO	Stopped listening on port 59243
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658237810865	geckodriver	INFO	Listening on 127.0.0.1:59411
+1658237813917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59412" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bhsha\\AppData\\Local\\Temp\\rust_mozprofileZphHj1"
+1658237814218	Marionette	INFO	Marionette enabled
+1658237814221	Marionette	INFO	Listening on port 59421
+WebDriver BiDi listening on ws://localhost:59412
+Read port: 59421
+1658237814292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bhsha\\AppData\\Local\\Temp\\rust_mozprofileZphHj1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59412/devtools/browser/1b8468d5-c465-4e27-985a-83fb4ddd36e5
+JavaScript warning: https://a.espncdn.com/prod/scripts/analytics/ESPN_at_v2.rs.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.cookielaw.org/opt-out/otCCPAiab.js, line 484: ReferenceError: OnetrustActiveGroups is not defined
+JavaScript error: https://tags.bluekai.com/site/24667?ret=html&phint=pageName%3Despn%3Afrontpage&phint=channel%3Despn%3Afrontpage&phint=eVar34%3D&phint=events%3Devent3&phint=prop1%3Despn&phint=swid%3D4E0F83F3-ADD6-4A3A-CA80-494F0B0466A0&phint=unid%3D&phint=prop4%3Dindex&phint=prop9%3D&phint=prop23%3D&phint=prop25%3D&phint=prop26%3Dno%2Bleague&phint=prop30%3Dpremium-no&phint=prop32%3D&phint=prop45%3D&phint=__bk_t%3DESPN%3A%20Serving%20sports%20fans.%20Anytime.%20Anywhere.&phint=__bk_k%3DESPN%2C%20sports%20scores%2C%20sports%20news%2C%20football%20scores%2C%20cricket%20scores%2C%20rugby%20scores%2C%20f1%20scores%2C%20golf%20scores%2C%20tennis%20scores%2C%20MLB%20scores%2C%20NFL%20scores%2C%20NBA%20scores%2C%20NHL%20scores%2C%20College%20Football%20scores%2C%20College%20Basketball%20scores%2C%20sports%20videos%2C%20sports%20information%2C%20Fantasy%20sports%2C%20Fantasy%20games%2C%20Fantasy%20football%2C%20Fantasy%20baseball&phint=__bk_l%3Dhttps%3A%2F%2Fwww.espn.com%2F&phint=__bk_v%3D3.1.10&limit=10&r=50037639, line 16: SyntaxError: unexpected token: identifier
+JavaScript warning: https://a.espncdn.com/prod/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jb5du1wVqba4or3nurh6HQr9svaNG92rNWcoGauPISE.js line 2 > eval line 3535 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cdn.registerdisney.go.com"
+JavaScript warning: https://a.espncdn.com/prod/scripts/analytics/ESPN_at_v2.rs.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.cookielaw.org/opt-out/otCCPAiab.js, line 484: ReferenceError: OnetrustActiveGroups is not defined
+JavaScript warning: https://a.espncdn.com/prod/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://tags.bluekai.com/site/24667?ret=html&phint=pageName%3Despn%3Afrontpage&phint=channel%3Despn%3Afrontpage&phint=eVar34%3D&phint=events%3Devent3&phint=prop1%3Despn&phint=swid%3D%7BDE6199FE-FA25-414E-A199-FEFA25814E8E%7D&phint=unid%3D&phint=prop4%3Dindex&phint=prop9%3D&phint=prop23%3D&phint=prop25%3D&phint=prop26%3Dno%2Bleague&phint=prop30%3Dpremium-no&phint=prop32%3D&phint=prop45%3D&phint=__bk_t%3DESPN%3A%20Serving%20sports%20fans.%20Anytime.%20Anywhere.&phint=__bk_k%3DESPN%2C%20sports%20scores%2C%20sports%20news%2C%20football%20scores%2C%20cricket%20scores%2C%20rugby%20scores%2C%20f1%20scores%2C%20golf%20scores%2C%20tennis%20scores%2C%20MLB%20scores%2C%20NFL%20scores%2C%20NBA%20scores%2C%20NHL%20scores%2C%20College%20Football%20scores%2C%20College%20Basketball%20scores%2C%20sports%20videos%2C%20sports%20information%2C%20Fantasy%20sports%2C%20Fantasy%20games%2C%20Fantasy%20football%2C%20Fantasy%20baseball&phint=__bk_l%3Dhttps%3A%2F%2Fwww.espn.com%2F&phint=__bk_v%3D3.1.10&limit=10&r=50254438, line 16: SyntaxError: unexpected token: identifier
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jb5du1wVqba4or3nurh6HQr9svaNG92rNWcoGauPISE.js line 2 > eval line 4878 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jb5du1wVqba4or3nurh6HQr9svaNG92rNWcoGauPISE.js line 2 > eval line 1468 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://a.espncdn.com/qa/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside-20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jb5du1wVqba4or3nurh6HQr9svaNG92rNWcoGauPISE.js line 2 > eval line 6057 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://a.espncdn.com/qa/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v14.4.9/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/_j1ezhpSwBWUHEITOmC2IR4vOiGfDYio7V63aY1ETrc.js line 2 > eval line 1300 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876771&siteid=5071708&cmpnid=26958085&pcmtid=323459557&crtvid=168878471&rndnum=2028187566&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=528428785&aucid=ABAjH0hjphHNCj_rJQ-j5VG0XpYR&exch=1&sellid=17861261872 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.fouanalytics.com/s/pp.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.fouanalytics.com/s/pp.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[2022-07-19T13:40:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://a.espncdn.com/players/web-player-bundle/2.8.5/espn-web-player-bundle.js, line 9787: unreachable code after return statement
+[2022-07-19T13:40:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: https://cdn.cookielaw.org/opt-out/otCCPAiab.js, line 484: ReferenceError: OnetrustActiveGroups is not defined
+JavaScript warning: https://z.moatads.com/abcimavideo618769704984/moatvideo.js#_moatApi74469010, line 253: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://a.espncdn.com/qa/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/_j1ezhpSwBWUHEITOmC2IR4vOiGfDYio7V63aY1ETrc.js line 2 > eval line 6691 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-07-19T13:40:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://a.espncdn.com/players/web-player-bundle/2.8.5/espn-web-player-bundle.js, line 9787: unreachable code after return statement
+[2022-07-19T13:40:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://z.moatads.com/abcimavideo618769704984/moatvideo.js#_moatApi72051772, line 253: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://a.espncdn.com/qa/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/_j1ezhpSwBWUHEITOmC2IR4vOiGfDYio7V63aY1ETrc.js line 2 > eval line 4458 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jb5du1wVqba4or3nurh6HQr9svaNG92rNWcoGauPISE.js line 2 > eval line 1842 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658239952661	Marionette	INFO	Stopped listening on port 59421
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 9788, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1658260459141	geckodriver	INFO	Listening on 127.0.0.1:55147
+1658260462204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55148" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bhsha\\AppData\\Local\\Temp\\rust_mozprofileETZm4W"
+1658260462391	Marionette	INFO	Marionette enabled
+1658260462394	Marionette	INFO	Listening on port 55157
+WebDriver BiDi listening on ws://localhost:55148
+Read port: 55157
+1658260462511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bhsha\\AppData\\Local\\Temp\\rust_mozprofileETZm4W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55148/devtools/browser/675385fe-0bc6-414a-9f93-832140471f72
+JavaScript warning: https://a.espncdn.com/prod/scripts/analytics/ESPN_at_v2.rs.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.cookielaw.org/opt-out/otCCPAiab.js, line 484: ReferenceError: OnetrustActiveGroups is not defined
+JavaScript error: https://tags.bluekai.com/site/24667?ret=html&phint=pageName%3Despn%3Afrontpage&phint=channel%3Despn%3Afrontpage&phint=eVar34%3D&phint=events%3Devent3&phint=prop1%3Despn&phint=swid%3D6A32DDD5-E712-469B-C648-BD4B53A44062&phint=unid%3D&phint=prop4%3Dindex&phint=prop9%3D&phint=prop23%3D&phint=prop25%3D&phint=prop26%3Dno%2Bleague&phint=prop30%3Dpremium-no&phint=prop32%3D&phint=prop45%3D&phint=__bk_t%3DESPN%3A%20Serving%20sports%20fans.%20Anytime.%20Anywhere.&phint=__bk_k%3DESPN%2C%20sports%20scores%2C%20sports%20news%2C%20football%20scores%2C%20cricket%20scores%2C%20rugby%20scores%2C%20f1%20scores%2C%20golf%20scores%2C%20tennis%20scores%2C%20MLB%20scores%2C%20NFL%20scores%2C%20NBA%20scores%2C%20NHL%20scores%2C%20College%20Football%20scores%2C%20College%20Basketball%20scores%2C%20sports%20videos%2C%20sports%20information%2C%20Fantasy%20sports%2C%20Fantasy%20games%2C%20Fantasy%20football%2C%20Fantasy%20baseball&phint=__bk_l%3Dhttps%3A%2F%2Fwww.espn.com%2F&phint=__bk_v%3D3.1.10&limit=10&r=76274719, line 16: SyntaxError: unexpected token: identifier
+JavaScript warning: https://a.espncdn.com/prod/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jb5du1wVqba4or3nurh6HQr9svaNG92rNWcoGauPISE.js line 2 > eval line 5673 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cdn.registerdisney.go.com"
+JavaScript warning: https://a.espncdn.com/prod/scripts/analytics/ESPN_at_v2.rs.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.cookielaw.org/opt-out/otCCPAiab.js, line 484: ReferenceError: OnetrustActiveGroups is not defined
+JavaScript warning: https://a.espncdn.com/prod/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jb5du1wVqba4or3nurh6HQr9svaNG92rNWcoGauPISE.js line 2 > eval line 1023 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://tags.bluekai.com/site/24667?ret=html&phint=pageName%3Despn%3Afrontpage&phint=channel%3Despn%3Afrontpage&phint=eVar34%3D&phint=events%3Devent3&phint=prop1%3Despn&phint=swid%3D%7BDE6199FE-FA25-414E-A199-FEFA25814E8E%7D&phint=unid%3D&phint=prop4%3Dindex&phint=prop9%3D&phint=prop23%3D&phint=prop25%3D&phint=prop26%3Dno%2Bleague&phint=prop30%3Dpremium-no&phint=prop32%3D&phint=prop45%3D&phint=__bk_t%3DESPN%3A%20Serving%20sports%20fans.%20Anytime.%20Anywhere.&phint=__bk_k%3DESPN%2C%20sports%20scores%2C%20sports%20news%2C%20football%20scores%2C%20cricket%20scores%2C%20rugby%20scores%2C%20f1%20scores%2C%20golf%20scores%2C%20tennis%20scores%2C%20MLB%20scores%2C%20NFL%20scores%2C%20NBA%20scores%2C%20NHL%20scores%2C%20College%20Football%20scores%2C%20College%20Basketball%20scores%2C%20sports%20videos%2C%20sports%20information%2C%20Fantasy%20sports%2C%20Fantasy%20games%2C%20Fantasy%20football%2C%20Fantasy%20baseball&phint=__bk_l%3Dhttps%3A%2F%2Fwww.espn.com%2F&phint=__bk_v%3D3.1.10&limit=10&r=10611679, line 16: SyntaxError: unexpected token: identifier
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jb5du1wVqba4or3nurh6HQr9svaNG92rNWcoGauPISE.js line 2 > eval line 1225 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://a.espncdn.com/qa/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jb5du1wVqba4or3nurh6HQr9svaNG92rNWcoGauPISE.js line 2 > eval line 7525 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://a.espncdn.com/qa/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-07-19T19:55:08Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://a.espncdn.com/players/web-player-bundle/2.8.5/espn-web-player-bundle.js, line 9787: unreachable code after return statement
+[2022-07-19T19:55:08Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://z.moatads.com/abcimavideo618769704984/moatvideo.js#_moatApi25306201, line 253: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://a.espncdn.com/qa/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-07-19T19:55:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://a.espncdn.com/players/web-player-bundle/2.8.5/espn-web-player-bundle.js, line 9787: unreachable code after return statement
+[2022-07-19T19:55:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://z.moatads.com/abcimavideo618769704984/moatvideo.js#_moatApi79814206, line 253: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://a.espncdn.com/qa/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jb5du1wVqba4or3nurh6HQr9svaNG92rNWcoGauPISE.js line 2 > eval line 2226 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658260536860	geckodriver	INFO	Listening on 127.0.0.1:58435
+1658260539932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58436" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bhsha\\AppData\\Local\\Temp\\rust_mozprofiletiFbFq"
+1658260540129	Marionette	INFO	Marionette enabled
+1658260540132	Marionette	INFO	Listening on port 58446
+WebDriver BiDi listening on ws://localhost:58436
+Read port: 58446
+1658260540190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bhsha\\AppData\\Local\\Temp\\rust_mozprofiletiFbFq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58436/devtools/browser/72af6214-03ef-4d5a-a77d-331c7b354148
+JavaScript warning: https://a.espncdn.com/prod/scripts/analytics/ESPN_at_v2.rs.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.cookielaw.org/opt-out/otCCPAiab.js, line 484: ReferenceError: OnetrustActiveGroups is not defined
+JavaScript error: https://tags.bluekai.com/site/24667?ret=html&phint=pageName%3Despn%3Afrontpage&phint=channel%3Despn%3Afrontpage&phint=eVar34%3D&phint=events%3Devent3&phint=prop1%3Despn&phint=swid%3D2004BE9C-ECA0-416D-C1D0-6B5AFC873CED&phint=unid%3D&phint=prop4%3Dindex&phint=prop9%3D&phint=prop23%3D&phint=prop25%3D&phint=prop26%3Dno%2Bleague&phint=prop30%3Dpremium-no&phint=prop32%3D&phint=prop45%3D&phint=__bk_t%3DESPN%3A%20Serving%20sports%20fans.%20Anytime.%20Anywhere.&phint=__bk_k%3DESPN%2C%20sports%20scores%2C%20sports%20news%2C%20football%20scores%2C%20cricket%20scores%2C%20rugby%20scores%2C%20f1%20scores%2C%20golf%20scores%2C%20tennis%20scores%2C%20MLB%20scores%2C%20NFL%20scores%2C%20NBA%20scores%2C%20NHL%20scores%2C%20College%20Football%20scores%2C%20College%20Basketball%20scores%2C%20sports%20videos%2C%20sports%20information%2C%20Fantasy%20sports%2C%20Fantasy%20games%2C%20Fantasy%20football%2C%20Fantasy%20baseball&phint=__bk_l%3Dhttps%3A%2F%2Fwww.espn.com%2F&phint=__bk_v%3D3.1.10&limit=10&r=13750155, line 16: SyntaxError: unexpected token: identifier
+JavaScript warning: https://a.espncdn.com/prod/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jb5du1wVqba4or3nurh6HQr9svaNG92rNWcoGauPISE.js line 2 > eval line 1645 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cdn.registerdisney.go.com"
+JavaScript warning: https://a.espncdn.com/prod/scripts/analytics/ESPN_at_v2.rs.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.cookielaw.org/opt-out/otCCPAiab.js, line 484: ReferenceError: OnetrustActiveGroups is not defined
+JavaScript warning: https://a.espncdn.com/prod/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://tags.bluekai.com/site/24667?ret=html&phint=pageName%3Despn%3Afrontpage&phint=channel%3Despn%3Afrontpage&phint=eVar34%3D&phint=events%3Devent3&phint=prop1%3Despn&phint=swid%3D%7BDE6199FE-FA25-414E-A199-FEFA25814E8E%7D&phint=unid%3D&phint=prop4%3Dindex&phint=prop9%3D&phint=prop23%3D&phint=prop25%3D&phint=prop26%3Dno%2Bleague&phint=prop30%3Dpremium-no&phint=prop32%3D&phint=prop45%3D&phint=__bk_t%3DESPN%3A%20Serving%20sports%20fans.%20Anytime.%20Anywhere.&phint=__bk_k%3DESPN%2C%20sports%20scores%2C%20sports%20news%2C%20football%20scores%2C%20cricket%20scores%2C%20rugby%20scores%2C%20f1%20scores%2C%20golf%20scores%2C%20tennis%20scores%2C%20MLB%20scores%2C%20NFL%20scores%2C%20NBA%20scores%2C%20NHL%20scores%2C%20College%20Football%20scores%2C%20College%20Basketball%20scores%2C%20sports%20videos%2C%20sports%20information%2C%20Fantasy%20sports%2C%20Fantasy%20games%2C%20Fantasy%20football%2C%20Fantasy%20baseball&phint=__bk_l%3Dhttps%3A%2F%2Fwww.espn.com%2F&phint=__bk_v%3D3.1.10&limit=10&r=74665858, line 16: SyntaxError: unexpected token: identifier
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jb5du1wVqba4or3nurh6HQr9svaNG92rNWcoGauPISE.js line 2 > eval line 1992 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jb5du1wVqba4or3nurh6HQr9svaNG92rNWcoGauPISE.js line 2 > eval line 2286 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://a.espncdn.com/qa/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jb5du1wVqba4or3nurh6HQr9svaNG92rNWcoGauPISE.js line 2 > eval line 5003 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v14.4.9/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jb5du1wVqba4or3nurh6HQr9svaNG92rNWcoGauPISE.js line 2 > eval line 115 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://a.espncdn.com/qa/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jb5du1wVqba4or3nurh6HQr9svaNG92rNWcoGauPISE.js line 2 > eval line 5980 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v14.4.9/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[2022-07-19T20:00:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-19T20:00:30Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://a.espncdn.com/players/web-player-bundle/2.8.5/espn-web-player-bundle.js, line 9787: unreachable code after return statement
+JavaScript warning: https://z.moatads.com/abcimavideo618769704984/moatvideo.js#_moatApi57248570, line 253: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://a.espncdn.com/qa/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jb5du1wVqba4or3nurh6HQr9svaNG92rNWcoGauPISE.js line 2 > eval line 362 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-07-19T20:00:37Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://a.espncdn.com/players/web-player-bundle/2.8.5/espn-web-player-bundle.js, line 9787: unreachable code after return statement
+[2022-07-19T20:00:37Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://z.moatads.com/abcimavideo618769704984/moatvideo.js#_moatApi5999337, line 253: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jb5du1wVqba4or3nurh6HQr9svaNG92rNWcoGauPISE.js line 2 > eval line 4687 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://a.espncdn.com/qa/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jb5du1wVqba4or3nurh6HQr9svaNG92rNWcoGauPISE.js line 2 > eval line 4237 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658262825635	Marionette	INFO	Stopped listening on port 58446
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659621613064	geckodriver	INFO	Listening on 127.0.0.1:51484
+1659621616115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bhsha\\AppData\\Local\\Temp\\rust_mozprofileoO5jN4"
+1659621616318	Marionette	INFO	Marionette enabled
+1659621616320	Marionette	INFO	Listening on port 51508
+WebDriver BiDi listening on ws://localhost:51485
+Read port: 51508
+1659621616386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bhsha\\AppData\\Local\\Temp\\rust_mozprofileoO5jN4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51485/devtools/browser/9f7c652c-d557-42c0-9828-bb1cd917a295
+JavaScript warning: https://a.espncdn.com/prod/scripts/analytics/ESPN_at_v2.rs.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.cookielaw.org/opt-out/otCCPAiab.js, line 484: ReferenceError: OnetrustActiveGroups is not defined
+JavaScript error: https://tags.bluekai.com/site/24667?ret=html&phint=pageName%3Despn%3Afrontpage&phint=channel%3Despn%3Afrontpage&phint=eVar34%3D&phint=events%3Devent3&phint=prop1%3Despn&phint=swid%3DE0238FA0-E7A6-4850-C85F-A3AA049AA8C9&phint=unid%3D&phint=prop4%3Dindex&phint=prop9%3D&phint=prop23%3D&phint=prop25%3D&phint=prop26%3Dno%2Bleague&phint=prop30%3Dpremium-no&phint=prop32%3D&phint=prop45%3D&phint=__bk_t%3DESPN%3A%20Serving%20sports%20fans.%20Anytime.%20Anywhere.&phint=__bk_k%3DESPN%2C%20sports%20scores%2C%20sports%20news%2C%20football%20scores%2C%20cricket%20scores%2C%20rugby%20scores%2C%20f1%20scores%2C%20golf%20scores%2C%20tennis%20scores%2C%20MLB%20scores%2C%20NFL%20scores%2C%20NBA%20scores%2C%20NHL%20scores%2C%20College%20Football%20scores%2C%20College%20Basketball%20scores%2C%20sports%20videos%2C%20sports%20information%2C%20Fantasy%20sports%2C%20Fantasy%20games%2C%20Fantasy%20football%2C%20Fantasy%20baseball&phint=__bk_l%3Dhttps%3A%2F%2Fwww.espn.com%2F&phint=__bk_v%3D3.1.10&limit=10&r=37144262, line 16: SyntaxError: unexpected token: identifier
+JavaScript warning: https://a.espncdn.com/prod/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jjp8A9boDrBmSAr_yfbeEM1ThbAhpFVxRN30ZpHEy3Q.js line 2 > eval line 1393 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cdn.registerdisney.go.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cdn.registerdisney.go.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://a.espncdn.com/prod/scripts/analytics/ESPN_at_v2.rs.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.cookielaw.org/opt-out/otCCPAiab.js, line 484: ReferenceError: OnetrustActiveGroups is not defined
+JavaScript warning: https://a.espncdn.com/prod/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.espn.com/third_party/workbox/workbox-strategies.prod.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: https://tags.bluekai.com/site/24667?ret=html&phint=pageName%3Despn%3Afrontpage&phint=channel%3Despn%3Afrontpage&phint=eVar34%3D&phint=events%3Devent3&phint=prop1%3Despn&phint=swid%3D%7BDE6199FE-FA25-414E-A199-FEFA25814E8E%7D&phint=unid%3D&phint=prop4%3Dindex&phint=prop9%3D&phint=prop23%3D&phint=prop25%3D&phint=prop26%3Dno%2Bleague&phint=prop30%3Dpremium-no&phint=prop32%3D&phint=prop45%3D&phint=__bk_t%3DESPN%3A%20Serving%20sports%20fans.%20Anytime.%20Anywhere.&phint=__bk_k%3DESPN%2C%20sports%20scores%2C%20sports%20news%2C%20football%20scores%2C%20cricket%20scores%2C%20rugby%20scores%2C%20f1%20scores%2C%20golf%20scores%2C%20tennis%20scores%2C%20MLB%20scores%2C%20NFL%20scores%2C%20NBA%20scores%2C%20NHL%20scores%2C%20College%20Football%20scores%2C%20College%20Basketball%20scores%2C%20sports%20videos%2C%20sports%20information%2C%20Fantasy%20sports%2C%20Fantasy%20games%2C%20Fantasy%20football%2C%20Fantasy%20baseball&phint=__bk_l%3Dhttps%3A%2F%2Fwww.espn.com%2F&phint=__bk_v%3D3.1.10&limit=10&r=82799791, line 16: SyntaxError: unexpected token: identifier
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jjp8A9boDrBmSAr_yfbeEM1ThbAhpFVxRN30ZpHEy3Q.js line 2 > eval line 2054 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.espn.com/third_party/workbox/workbox-strategies.prod.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jjp8A9boDrBmSAr_yfbeEM1ThbAhpFVxRN30ZpHEy3Q.js line 2 > eval line 5400 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://a.espncdn.com/qa/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jjp8A9boDrBmSAr_yfbeEM1ThbAhpFVxRN30ZpHEy3Q.js line 2 > eval line 3324 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://a.espncdn.com/qa/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cb8a0809447a18d571d66157882f1980.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 18: ReferenceError: googqscp is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jjp8A9boDrBmSAr_yfbeEM1ThbAhpFVxRN30ZpHEy3Q.js line 2 > eval line 6907 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://vidstat.taboola.com/vpaid/vPlayer/player/v14.6.1/OvaMediaPlayer.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[2022-08-04T14:08:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://a.espncdn.com/qa/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: InvalidStateError: Navigated away from page
+[2022-08-04T14:08:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://a.espncdn.com/qa/scripts/moat/yield.js, line 186: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-08-04T14:12:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jjp8A9boDrBmSAr_yfbeEM1ThbAhpFVxRN30ZpHEy3Q.js line 2 > eval line 6434 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
